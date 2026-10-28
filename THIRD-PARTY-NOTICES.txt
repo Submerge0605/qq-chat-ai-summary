@@ -1,0 +1,18 @@
+QQ 聊天记录 AI 摘要 —— 第三方组件声明
+
+1. NapCatQQ 运行时
+   版本：4.18.28
+   项目地址：https://github.com/NapNeko/NapCatQQ
+   许可证：GNU Affero General Public License v3.0（AGPL-3.0）
+   许可证全文：https://www.gnu.org/licenses/agpl-3.0.txt
+
+   本软件在 runtime\napcat 目录中附带 NapCatQQ 的 Windows x64 运行时，
+   用于连接本机 QQ 的 OneBot HTTP 接口。二进制未做修改；仅按运行需要重新组织
+   目录，并移除了与本软件功能无关的插件和静态资源。
+
+2. 应用图标
+   图标素材由软件所有者提供。如素材包含第三方作品，请由发布者自行确认授权范围。
+
+3. 其他
+   本软件不包含腾讯 QQ 的任何文件；运行时使用用户本机已安装的 QQNT。
+   QQ 是腾讯公司的商标，本软件与腾讯公司无隶属关系。
